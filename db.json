@@ -1,24 +1,22 @@
 {
-  "articoli" : [
-  {
-    "id": 1,
-    "titolo": "LA MIA GENTE",
-    "url": "https://www.youtube.com/watch?v=_m0nfIfutYY",
-    "like": 54
-  },
-  {
-    "id": 2,
-    "titolo": "La TRISTE storia di DERRICK ROSE ||| L'ELETTO fermato dagli INFORTUNI",
-    "url": "https://www.youtube.com/watch?v=6UFPg7QSdIQ",
-    like": 13581
-  },
-  {
-    "id": 3,
-    "titolo": "Marracash - CLIFFHANGER (Visual)",
-    "url": "https://www.youtube.com/watch?v=G7feXPQNobA"
-    "like": 12683
+  "articoli": [
+    {
+      "id": 1,
+      "titolo": "LA MIA GENTE",
+      "url": "https://www.youtube.com/watch?v=_m0nfIfutYY",
+      "like": 54
+    },
+    {
+      "id": 2,
+      "titolo": "La TRISTE storia di DERRICK ROSE ||| L'ELETTO fermato dagli INFORTUNI",
+      "url": "https://www.youtube.com/watch=6UFPg7QSdIQ",
+      "like": 13581
+    },
+    {
+      "id": 3,
+      "titolo": "Marracash - CLIFFHANGER (Visual)",
+      "url": "https://www.youtube.com/watch?v=G7feXPQNobA",
+      "like": 12683
     }
   ]
- }
-  
-  
+}
